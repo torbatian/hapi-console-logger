@@ -1,0 +1,29 @@
+{
+  "name": "hapi-console-logger",
+  "version": "0.0.1",
+  "description": "hapi.js console logger",
+  "main": "lib/index.js",
+  "repository": "https://github.com/torbatian/hapi-console-logger.git",
+  "author": "Hamed Torbatian <hamed.tm@gmail.com>",
+  "keywords": [
+    "hapi",
+    "logger",
+    "log",
+    "logging",
+    "console"
+  ],
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "hapi": "17.x.x"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "date-fns": "^1.29.0"
+  }
+}

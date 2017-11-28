@@ -1,2 +1,2 @@
 # hapi-console-logger
-hapi.js events console logger
+hapi.js console logger
