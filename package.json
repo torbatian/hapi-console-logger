@@ -1,6 +1,6 @@
 {
   "name": "hapi-console-logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "hapi.js console logger",
   "main": "lib/index.js",
   "repository": "https://github.com/torbatian/hapi-console-logger.git",
@@ -24,6 +24,7 @@
     "standard": "^10.0.3"
   },
   "dependencies": {
+    "chalk": "^2.3.0",
     "date-fns": "^1.29.0"
   }
 }
